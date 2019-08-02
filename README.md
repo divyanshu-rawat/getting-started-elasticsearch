@@ -1,2 +1,2 @@
 # getting-started-elasticsearch
-A Node.js based elasticsearch tutorial.
+A Node.js based elasticsearch client.
